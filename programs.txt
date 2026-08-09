@@ -1,0 +1,31 @@
+fork
+vfork
+exec
+fcntl
+open
+close
+read
+write
+lseek
+fcntl
+F_GETFL
+F_SETFL
+signals
+process and sharing files and getting same mode in other process
+synchronization between process using signals
+inode - stat data structure, st_mode
+
+/***************************
+Thread and thread synchronization
+process scheduling
+IPC - sockets
+Interrupts
+chmod from command line - file permissions
+ssl command
+reading file over internet
+***************************/
+IPC - messageQueues, pipes
+
+
+
+
